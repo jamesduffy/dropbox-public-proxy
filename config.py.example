@@ -1,0 +1,3 @@
+"""Config."""
+
+access_token = ""
